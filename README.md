@@ -1,4 +1,4 @@
-# COVID-19 Data Analysis 
+# COVID-19 Data Analysis Group project
 
 ## Table of Contents
 - [Project Overview](#project-overview)
